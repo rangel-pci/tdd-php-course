@@ -65,7 +65,7 @@ class GateWayTest extends TestCase{
                     'user' =>  $user,
                     'password' => $password
                 ],
-                'valid-token'
+                $token
             ],
             [
                 'POST',
