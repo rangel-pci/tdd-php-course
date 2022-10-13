@@ -1,0 +1,3 @@
+- In \Test\Service\BadWordsValidatorTest.php we used "Stubs", and we used it to handle class dependencies in tests
+- Stubs are used with query like methods - methods that return things, but it's not important if they're actually called. ~ stackoverflow.com
+
